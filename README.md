@@ -49,7 +49,7 @@ Powered by Mihomo (Clash.Meta) Core | Elegant Web UI | One-Click Deployment
 ### Linux One-Click Install (Recommended)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/star8618/P-BOX/main/install.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/xiaomaye/P-BOX/main/install.sh | sudo bash
 ```
 
 The script will:
