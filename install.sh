@@ -80,7 +80,7 @@ FILENAME="p-box-${VERSION}-linux-${ARCH}.tar.gz"
 DOWNLOAD_URL="https://github.com/${GITHUB_REPO}/releases/download/v${VERSION}/${FILENAME}"
 
 # Try CDN first
-CDN_URL="https://ghfast.top/${DOWNLOAD_URL}"
+CDN_URL="https://docker.1ms.run/${DOWNLOAD_URL}"
 
 echo -e "${BLUE}📥 Downloading P-BOX...${NC}"
 
