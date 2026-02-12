@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # P-BOX Linux One-Click Installation Script
-# https://github.com/star8618/P-BOX
+# https://github.com/xiaomaye/P-BOX
 
 set -e
 
