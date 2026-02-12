@@ -77,7 +77,7 @@ echo -e "${GREEN}✓ Latest version: ${CYAN}v${VERSION}${NC}"
 
 # Download URL (GitHub uses 'v' prefix in release tags)
 FILENAME="p-box-${VERSION}-linux-${ARCH}.tar.gz"
-DOWNLOAD_URL="https://github.com/${GITHUB_REPO}/releases/download/v${VERSION}/${FILENAME}"
+DOWNLOAD_URL="https://github.com/xiaomaye/P-BOX/releases/download/3.1.5/p-box-3.1.5-linux-amd64.tar.gz"
 
 # Try CDN first
 CDN_URL="https://mirror.ghproxy.com/${DOWNLOAD_URL}"
