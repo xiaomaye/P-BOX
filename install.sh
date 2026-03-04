@@ -80,7 +80,7 @@ FILENAME="p-box-${VERSION}-linux-${ARCH}.tar.gz"
 DOWNLOAD_URL="https://github.com/xiaomaye/P-BOX/releases/download/3.1.6/p-box-3.1.6-linux-amd64.tar.gz"
 
 # Try CDN first
-CDN_URL="https://mirror.ghproxy.com/${DOWNLOAD_URL}"
+CDN_URL="https://ghfast.top/${DOWNLOAD_URL}"
 
 echo -e "${BLUE}📥 Downloading P-BOX...${NC}"
 
